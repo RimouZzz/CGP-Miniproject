@@ -1,6 +1,7 @@
 # CGP-Miniproject
 
 repository for hand in assignment for CGP 
+Inspiration taken from https://catlikecoding.com/unity/tutorials/flow/waves/
 
 This project was made with unity build 2021.3.11f1
 
